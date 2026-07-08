@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary      = "An infinitely scrolling pagination control."
   s.homepage     = "https://github.com/iLiuChang/Slideshow"
   s.license      = "MIT"
-  s.authors      = { "liuchang" => "iliuchang@foxmail.com" }
+  s.authors      = { "liuchang" => "helloliuchang@163.com" }
   s.platform     = :ios, "11.0"
   s.source       = { :git => "https://github.com/iLiuChang/Slideshow.git", :tag => s.version }
   s.swift_version = "5.0"
